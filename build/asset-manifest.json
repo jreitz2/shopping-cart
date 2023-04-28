@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/shopping-cart/static/css/main.cfa761a7.css",
+    "main.js": "/shopping-cart/static/js/main.5278bc8a.js",
+    "static/media/bg.jpg": "/shopping-cart/static/media/bg.1518a5e03562c70c07c3.jpg",
+    "static/media/boots.jpg": "/shopping-cart/static/media/boots.26d3c1a3766d9457b668.jpg",
+    "static/media/hat.jpg": "/shopping-cart/static/media/hat.3b5d46d551f3ebc6e0e1.jpg",
+    "static/media/shirt.jpg": "/shopping-cart/static/media/shirt.e0d4cb0ff14bc75a8c91.jpg",
+    "static/media/bandolier.jpg": "/shopping-cart/static/media/bandolier.552298b47f1a872c0963.jpg",
+    "static/media/oven.jpg": "/shopping-cart/static/media/oven.1609209cb2fb8d003774.jpg",
+    "static/media/saddle.jpg": "/shopping-cart/static/media/saddle.30cd7b6e549217e27fa7.jpg",
+    "static/media/phone.jpeg": "/shopping-cart/static/media/phone.86b6d3075a27f6f7f651.jpeg",
+    "static/media/holster.jpg": "/shopping-cart/static/media/holster.35b89d9c689f29154946.jpg",
+    "static/media/cart.png": "/shopping-cart/static/media/cart.0536a050c115dd91665c.png",
+    "static/media/insta.png": "/shopping-cart/static/media/insta.75e0546a6b5abe4c0506.png",
+    "static/media/tt.png": "/shopping-cart/static/media/tt.1b85da717508a0b9d5a7.png",
+    "index.html": "/shopping-cart/index.html",
+    "main.cfa761a7.css.map": "/shopping-cart/static/css/main.cfa761a7.css.map",
+    "main.5278bc8a.js.map": "/shopping-cart/static/js/main.5278bc8a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cfa761a7.css",
+    "static/js/main.5278bc8a.js"
+  ]
+}

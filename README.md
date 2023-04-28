@@ -1,0 +1,1 @@
+This is a basic shopping cart app made with react. It uses react router to link pages. 
